@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Basic_Selects">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01_Territorios.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01_Territorios.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02_CabecerasFacturas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02_CabecerasFacturas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_PO_header_preguntas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03_PO_header_preguntas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_PO_header_soluciones.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03_PO_header_soluciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_PO_header_AGG_Explicacion.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_PO_header_AGG_Explicacion.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_PO_header_AGG_preguntas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_PO_header_AGG_preguntas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_PO_header_AGG_Soluciones.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_PO_header_AGG_Soluciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="explora_productos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>explora_productos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Tablas Ordenadas por cantidad FIlas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Tablas Ordenadas por cantidad FIlas.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

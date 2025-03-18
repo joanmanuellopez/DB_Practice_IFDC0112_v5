@@ -1,0 +1,5 @@
+CREATE DATABASE Apol_Excel_01
+COLLATE Modern_Spanish_CS_AS
+
+CREATE DATABASE Apol_Excel_03
+COLLATE Modern_Spanish_CS_AS
